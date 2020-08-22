@@ -33,7 +33,7 @@
     "extra": {
         "laravel": {
             "providers": [
-                "LarabeatServiceProvider"
+                "JosePostiga\\Larabeat\\LarabeatServiceProvider"
             ]
         }
     }

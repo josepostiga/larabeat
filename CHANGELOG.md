@@ -28,6 +28,13 @@ All notable changes to this repository will be documented in this file.
 
 - N/A
 
+
+## 1.0.3 - 2020-08-22
+
+### Fixed
+
+- Service provider class reference in `composer.json` file
+
 ## 1.0.2 - 2020-08-22
 
 ### Changed
