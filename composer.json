@@ -1,0 +1,39 @@
+{
+    "name": "josepostiga/larabeat",
+    "description": "Health checker for Laravel/Lumen applications",
+    "keywords": ["php", "package", "laravel", "health-check", "larabeat"],
+    "homepage": "https://github.com/josepostiga/larabeat",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "José Postiga",
+            "email": "me@josepostiga.com",
+            "homepage": "https://josepostiga.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {
+        "php": "^7.4"
+    },
+    "require-dev": {
+        "orchestra/testbench": "^5.4"
+    },
+    "autoload": {
+        "psr-4": {
+            "JosePostiga\\Larabeat\\": "src/"
+        }
+    },
+    "autoload-dev": {
+        "psr-4": {
+            "JosePostiga\\Larabeat\\Tests\\": "tests"
+        }
+    },
+    "extra": {
+        "laravel": {
+            "providers": [
+                "LarabeatServiceProvider"
+            ]
+        }
+    }
+}
