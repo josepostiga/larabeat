@@ -28,3 +28,9 @@ All notable changes to this repository will be documented in this file.
 
 - N/A
 
+## 1.0.0 - 2020-08-22
+
+### Added
+
+- Health check endpoint: `/health-check`.
+
