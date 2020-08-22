@@ -1,4 +1,4 @@
-# Very short description of the package
+# A health-check endpoint for your Laravel applications
 
 [![Latest Version on Packagist](https://img.shields.io/packagist/v/josepostiga/larabeat.svg?style=flat-square)](https://packagist.org/packages/josepostiga/larabeat)
 ![Run tests](https://github.com/josepostiga/larabeat/workflows/Run%20tests/badge.svg)
@@ -15,7 +15,7 @@ composer require josepostiga/larabeat
 
 ## Usage
 
-
+Just make a GET request to `/health-check`. If everything is ok, and your app is reachable, you'll get a 200 OK response status code.
 
 ### Testing
 

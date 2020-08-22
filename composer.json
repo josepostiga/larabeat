@@ -1,7 +1,7 @@
 {
     "name": "josepostiga/larabeat",
-    "description": "Health checker for Laravel/Lumen applications",
-    "keywords": ["php", "package", "laravel", "health-check", "larabeat"],
+    "description": "A health-check endpoint for your Laravel applications",
+    "keywords": ["php", "package", "laravel", "lumen", "health-check", "larabeat"],
     "homepage": "https://github.com/josepostiga/larabeat",
     "type": "library",
     "license": "MIT",
