@@ -17,7 +17,8 @@
         "php": "^7.4"
     },
     "require-dev": {
-        "orchestra/testbench": "^5.4"
+        "orchestra/testbench": "^5.4",
+        "php-coveralls/php-coveralls": "^2.2"
     },
     "autoload": {
         "psr-4": {
