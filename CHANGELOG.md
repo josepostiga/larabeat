@@ -32,7 +32,7 @@ All notable changes to this repository will be documented in this file.
 
 ### Changed
 
-- Updated `.gitattributes` file to exclude non-require files when distributing package on Packagist.
+- Updated `.gitattributes` file to exclude files when distributing on Packagist.
 
 ## 1.0.0 - 2020-08-22
 
