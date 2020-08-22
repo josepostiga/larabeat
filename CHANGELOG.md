@@ -28,6 +28,12 @@ All notable changes to this repository will be documented in this file.
 
 - N/A
 
+## 1.0.2 - 2020-08-22
+
+### Changed
+
+- Fix typo on `.gitattributes` file
+
 ## 1.0.1 - 2020-08-22
 
 ### Changed
